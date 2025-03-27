@@ -92,9 +92,10 @@ Sample GIF,
 
 The trained model can generate MNIST digit images, and the generated images are saved as GIFs during training (if enabled). Below is an example of the generated images from the Beta-VAE model:
 
-![image](https://github.com/user-attachments/assets/e1e5afe4-f843-4532-8107-b3daf2e1cd26)
+![image](https://github.com/user-attachments/assets/a7cb368c-6c29-4e96-a742-6195b84627f7)
 
-Cpmparison of AE, VAE and beta VAE generated images,
+
+Comparison of AE, VAE and beta VAE generated images,
 
 ![image](https://github.com/user-attachments/assets/5057b95c-9fa2-41ef-891e-170cac5ce0fd)
 
