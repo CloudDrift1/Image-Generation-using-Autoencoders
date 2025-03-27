@@ -1,0 +1,6 @@
+__pycache__/
+results/
+test_file/
+AE_generated_img.gif
+MNIST/
+data_prev/
