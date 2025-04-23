@@ -114,4 +114,5 @@ Image quality relation to latent vector dimension,
 2. For better disentanglement of the latent space, consider experimenting with the beta parameter in Beta-VAE.
 
 3. Visualization of the generated images during training can be controlled using the img_show flag.
+   
 
