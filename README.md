@@ -55,7 +55,7 @@ trainer.train()
 
 The loss curve looks as follows,
 
-![image](https://github.com/user-attachments/assets/bb601a8d-ede9-4645-b42c-61476aba3e3a)
+![image](data/vae_loss.png)
 
 Configuration
 The config argument is expected to be an object with the following fields:
@@ -88,24 +88,24 @@ trainer.train()
 
 Sample GIF,
 
-![VAE_generated_img](https://github.com/user-attachments/assets/94a6fd05-0b20-4328-9c7c-9c8efdf8eb2d)
+![image](data/AE_generated_img.gif)
 
 The trained model can generate MNIST digit images, and the generated images are saved as GIFs during training (if enabled). Below is an example of the generated images from the Beta-VAE model:
 
-![image](https://github.com/user-attachments/assets/a7cb368c-6c29-4e96-a742-6195b84627f7)
+![image](data/recon.png)
 
 
 Comparison of AE, VAE and beta VAE generated images,
 
-![image](https://github.com/user-attachments/assets/5057b95c-9fa2-41ef-891e-170cac5ce0fd)
+![image](data/comparison.png)
 
 Latent vector comparison
 
-![image](https://github.com/user-attachments/assets/3338accc-53f9-438e-9fe0-b99c647f0abd)
+![image](data/space2.png)
 
 Image quality relation to latent vector dimension,
 
-![image](https://github.com/user-attachments/assets/406ca882-cc74-4180-bf56-b039c8f5e7e0)
+![image](data/latent.png)
 
 
 ### Notes
